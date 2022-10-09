@@ -1,0 +1,53 @@
+<div ng-controller="about">
+    <!-- Body main wrapper start -->
+<div class="wrapper">
+    <!-- PAGE BANNER SECTION -->
+    <div class="page-banner-section section" style="background-image: url('image/aboutus.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="page-banner-content">
+                        <h1>About Us</h1>
+                        <ul class="breadcrumb">
+                            <li><a href="#">Home</a></li>
+                            <li class="active">About Us</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END PAGE BANNER SECTION -->
+        
+    <!-- PAGE SECTION START -->
+    <div class="page-section section pt-120 pb-45">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 mx-auto" ng-repeat="about in AboutList">
+                    <!-- Blog Item -->
+                    <div class="blog-item mb-75">
+                        <!-- Image -->
+                        <br>
+                        <!-- Content -->
+                        <div class="content fix">
+                            <!-- Title -->
+                            <h3 class="title" style="text-align:center; font-size:50px"><a href="#">{{about.title}}</a></h3>
+                            <a href="#" class="image"><img src="image/about.jpg"  width="50%" alt=""></a>
+                            <p style="margin-top: -45px ;">{{about.desc[0].d1}}</p>
+                            <p>{{about.desc[0].d2}}</p>
+                            <p>{{about.desc[0].d3}}</p>
+                            <p>{{about.desc[0].d4}}</p>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- PAGE SECTION END --> 
+    
+    </div>
+    <!-- Body main wrapper end -->
+</div>
+
+

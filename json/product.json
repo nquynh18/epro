@@ -1,0 +1,800 @@
+[
+    {
+        "id":1,
+        "type": [
+            {
+                "id":1,
+                "name": "split ac"
+            }
+        ],
+        "name":"Samsung Split AC Inverter AR18BX4ZAWK",
+        "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ],
+        "madein":"India",
+        "img":"/image/AR18BX4ZAWK.png",
+        "details":[
+            {
+                "d1":"No Cost EMI starts from ₹ 3566.00/ month.",
+                "d2":"Hot & Cold Inverter AC",
+                "d3":"Convertible 5in1 Modes",
+                "d4":"HD Filter, 2 Way Swing",
+                "d5":"100% Copper Condenser with Durafin Ultra cooling"
+            }
+        ],
+        "price":"22,999",
+        "year":"2022",
+        "top":"top"
+    },
+    {
+        "id":2,
+        "type": [
+            {
+                "id":1,
+                 "name": "split ac"
+            }
+        ],
+        "name":"Samsung WindFree™ Split AC AR18BY3APWK, 5.00kW",
+        "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ],
+        "madein":"India",
+        "img":"/image/AR18BY3APWK.png",
+        "details":[
+            {
+                "d1":"No Cost EMI starts from ₹ 3499.33/ month.",
+                "d2":"WindFree™ Cooling with 23,000 mircoholes",
+                "d3":"Convertible 5in1 Modes",
+                "d4":"WiFi, Anti Bacteria & Dust Filter",
+                "d5":"4 way Swing, 100% copper condenser with Durafin Ultra Coating"
+            }
+        ],
+        "price":"23,499",
+        "year":"2022"
+    },
+    {
+        "id":3,
+        "type": [
+            {
+                "id":1,
+                 "name": "split ac"
+            }
+        ],
+        "name":"Samsung Split AC AR24BYMZABE Inverter",
+        "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ],
+        "madein":"India",
+        "img":"/image/AR24BYMZABE.png",
+        "details":[
+            {
+                "d1":"No Cost EMI starts from ₹ 8048.92/ month.",
+                "d2":"Earth Brown Strip Design",
+                "d3":"Convertible 5in1 Modes",
+                "d4":"HD Filter, 2 Way Swing",
+                "d5":"100% Copper Condenser with Durafin Ultra cooling"
+            }
+        ],
+        "price":"14,999",
+        "year":"2022"
+    },
+    {
+        "id":4,
+        "type": [
+            {
+                "id":1,
+                 "name": "split ac"
+            }
+        ],
+        "name":"Daikin Split AC Inverter 2 HP FTKY50WVMV",
+        "brand":
+        [
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+        "madein":"Japan",
+        "img":"/image/FTKY50WVMV.jpg",
+        "details":[
+            {
+                "d1":"Anti-mildew function combined with Streamer technology",
+                "d2":"Humidity Sensor, Quiet operation Quiet",
+                "d3":"Timer to turn on and off",
+                "d4":"Auto-restart when power is on",
+                "d5":"Optional purchase of Daikin Mobile wireless controller",
+                "d6":"Comfortable airflow Coanda 3D"
+            }
+        ],
+        "price":"22,999",
+        "year":"2022",
+        "top":"top"
+    },
+    {
+        "id":5,
+        "type": [
+            {
+                "id":1,
+                 "name": "split ac"
+            }
+        ],
+        "name":"Daikin Split AC Inverter 2.5 HP FTHF60VVMV two-way",
+        "brand":
+        [
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+        "madein":"Thailand",
+        "img":"/image/FTHF60VVMV.jpg",
+        "details":[
+            {
+                "d1":"Anti-mold function to protect health",
+                "d2":"Dehumidification function",
+                "d3":"Automatic cold operation of heating according to room temperature",
+                "d4":"Timer to turn on and off and auto-restart when power is on",
+                "d5":"Remote with LED light",
+                "d6":"Optional purchase of Daikin Mobile wireless controller"
+            }
+        ],
+        "price":"13,999",
+        "year":"2022"
+    },
+    {
+        "id":6,
+        "type": [
+            {
+                "id":1,
+                 "name": "split ac"
+            }
+        ],
+        "name":"Daikin Split AC Inverter 3 HP FTKY71WVMV",
+        "brand":
+        [
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+        "madein":"Thailand",
+        "img":"/image/FTKY71WVMV.jpg",
+        "details":[
+            {
+                "d1":"Anti-mold function to protect health",
+                "d2":"Quiet operation Quiet",
+                "d3":"Dehumidification function",
+                "d4":"Timer to turn on and off and auto-restart when power is on",
+                "d5":"Comfortable airflow Coanda 3D",
+                "d6":"Optional purchase of Daikin Mobile wireless controller"
+            }
+        ],
+        "price":"33,999",
+        "year":"2022"
+    },
+    {
+        "id":7,
+        "type": [
+            {
+                "id":1,
+                 "name": "split ac"
+            }
+        ],
+        "name":"Panasonic Split AC Inverter CU/CS-VU9UKH-8",
+         "brand":[
+            {
+                "id":3,
+                "name":"Panasonic"
+            }
+        ],
+        "madein":"Malaysia",
+        "img":"/image/CS-VU9UKH-8.jpg",
+        "details":[
+            {
+                "d1":"Remote control with Comfort Cloud app (additional router purchase)",
+                "d2":"Fault self-diagnosis function",
+                "d3":"Instant cooling",
+                "d4":"Night mode to avoid freezing",
+                "d5":"Timer to turn on and off",
+                "d6":"4-way air swing helps to spread the cold air evenly"
+            }
+        ],
+        "price":"22,999",
+        "year":"2021",
+        "top":"top"
+    },
+    {
+        "id":8,
+        "type": [
+            {
+                "id":1,
+                 "name": "split ac"
+            }
+        ],
+        "name":"Panasonic Split AC Inverter 2.5 HP CS-XZ24XKH-8 two-way",
+        "brand":[
+            {
+                "id":3,
+                "name":"Panasonic"
+            }
+        ],
+        "madein":"Malaysia",
+        "img":"/image/CS-XZ24XKH-8.jpg",
+        "details":[
+            {
+                "d1":"iAuto X mode cools fast",
+                "d2":"Dehumidification function",
+                "d3":"Nanoe-G air filter function",
+                "d4":"ECO integrates AI to save electricity",
+                "d5":"Control by phone, with wifi"
+            }
+        ],
+        "price":"33,999",
+        "year":"2022"
+    },
+    {
+        "id":9,
+        "type": [
+            {
+                "id":1,
+                 "name": "split ac"
+            }
+        ],
+        "name":"Panasonic Split AC Inverter 2 HP CU/CS-YZ9WKH-8",
+        "brand":[
+            {
+                "id":3,
+                "name":"Panasonic"
+            }
+        ],
+        "madein":"Malaysia",
+        "img":"/image/CS-XZ24XKH-8.jpg",
+        "details":[
+            {
+                "d1":"Dehumidification & fault self-diagnosis function",
+                "d2":"Remote control with Comfort Cloud app (additional router purchase)",
+                "d3":"Auto-restart when power is on",
+                "d4":"Pleasant wind blowing (for children, the elderly)",
+                "d5":"Night mode to avoid freezing"
+            }
+        ],
+        "price":"23,999",
+        "year":"2022"
+    },
+    {
+    "id": 10,
+    "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "Daikin Window AC - White FRWF50TV162",
+     "brand":[
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+    "madein": "Japan",
+    "img": "/image/dakin10.jpg",
+    "details": [
+        {
+            "d1": "Windows AC: Economical & easy to install",
+            "d2": "Capacity : 2.5 Ton. Suitable for large sized rooms (151 sq ft to 200 sq. ft)",
+            "d3": "Energy Rating: 3 Star: , Annual Energy Consumption (as per energy label): 1265 units, ISEER Value: 09"
+        }
+    ],
+    "price": "34,990",
+    "year":"2021",
+    "top":"top"
+  },
+  {
+    "id": 11,
+     "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "Daikin Window AC 5 Star Non Inverter",
+     "brand":[
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+    "madein": "Japan",
+    "img": "/image/daikin11.jpg",
+    "details": [
+        {
+            "d1": "Capacity: 1.0 TR",
+            "d2": "Color: White",
+            "d3": "Energy Rating: 5 Star: , Annual Energy Consumption (as per energy label): 1265 units, ISEER Value: 09"
+        }
+    ],
+    "price": "30,000"
+  },
+  {
+    "id": 12,
+     "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "Daikin Windows AC For Home/Office",
+     "brand":[
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+    "madein": "India",
+    "img": "/image/daikin12.jpg",
+    "details": [
+        {
+            "d1": "Windows AC: Economical & easy to install",
+            "d2": "Capacity : 2.5 Ton. Suitable for large sized rooms (151 sq ft to 200 sq. ft)",
+            "d3": "Energy Rating: 3 Star, Annual Energy Consumption (as per energy label): 1265 units, ISEER Value: 09"
+        }
+    ],
+    "price": "26,500",
+    "top":"top"
+  },
+  {
+    "id": 13,
+     "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "Panasonic 1 Ton 3 Star Window AC CW-YC1216YA",
+    "brand":[
+        {
+            "id":3,
+            "name":"Panasonic"
+        }
+    ],
+    "madein": "Japan",
+    "img": "/image/panasonic13.jpg",
+    "details": [
+        {
+            "d1": "Windows AC: Economical & easy to install",
+            "d2": "Capacity: 1.5 Ton - Suitable for medium sized rooms (111 to 150 sq ft)",
+            "d3": "Energy Rating : 3 Star, Annual Energy Consumption : 1238.57 kWh, ISEER Value : 3 The star rating is as per BEE guidelines on or before 30th June 2022."
+        }
+    ],
+    "price": "24,000",
+    "year":"2021",
+    "top":"top"
+  },
+  {
+    "id": 14,
+     "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "Panasonic Window AC Condenser, CW-XN182AM",
+    "brand":[
+        {
+            "id":3,
+            "name":"Panasonic"
+        }
+    ],
+    "madein": "Japan",
+    "img": "/image/panasonic14.jpeg",
+    "details": [
+        {
+            "d1": "Windows AC: Economical & easy to install",
+            "d2": "Capacity: 1.5 Ton - Suitable for medium sized rooms (111 to 150 sq ft)",
+            "d3": "Energy Rating : 5 Star, Annual Energy Consumption : 11801168.90 kWh, ISEER Value : 3.34 The star rating is as per BEE guidelines on or before 30th June 2022."
+        }
+    ],
+    "price": "31,000",
+    "year":"2021"
+  },
+  {
+    "id": 15,
+     "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "Panasonic CW-KC1815YA 1.5 Ton 5 Star Window AC",
+    "brand":[
+        {
+            "id":3,
+            "name":"Panasonic"
+        }
+    ],
+    "madein": "Japan",
+    "img": "/image/panasonic15.jpg",
+    "details": [
+        {
+            "d1": "Windows AC: Economical & easy to install",
+            "d2": "Capacity: 1.5 Ton - Suitable for medium sized rooms (111 to 150 sq ft)",
+            "d3": "Energy Rating : 5 Star, Annual Energy Consumption : 1180.00 kWh, ISEER Value : 3.34"
+        }
+    ],
+    "price": "31,000",
+    "year":"2021",
+    "top":"top"
+  },
+  {
+    "id": 16,
+     "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "Samsung Window AC, for Industrial Use",
+    "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ],
+    "madein": "India",
+    "img": "/image/samsung16.jpg",
+    "details": [
+        {
+            "d1": "Windows AC: Economical & easy to install",
+            "d2": "Capacity: 2 Ton - Suitable for Industrial use",
+            "d3": "Energy Rating : 5 Star, Annual Energy Consumption : 1180.00 kWh, ISEER Value : 3.34"
+        }
+    ],
+    "price": "29,000",
+    "year":"2021"
+  },
+  {
+    "id": 17,
+     "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "SAMSUNG AW182ZC 1.5 Tons Window Air Conditioner",
+    "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ],
+    "madein": "India",
+    "img": "/image/samsung17.jpg",
+    "details": [
+        {
+            "d1": "Windows AC: Economical & easy to install",
+            "d2": "Capacity: 1.5 Ton",
+            "d3": "Energy Rating : 5 Star, Annual Energy Consumption : 1180.00 kWh, ISEER Value : 3.34"
+        }
+    ],
+    "price": "35,200",
+    "year":"2022"
+  },
+  {
+    "id": 18,
+     "type": [
+        {
+            "id":2,
+             "name": "window ac"
+        }
+    ],
+    "name": "Samsung AW122KC 1 Ton Window AC",
+    "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ],
+    "madein": "India",
+    "img": "/image/samsung18.jpg",
+    "details": [
+        {
+            "d1": "Windows AC: Economical & easy to install",
+            "d2": "Capacity: 1 Ton - Suitable for medium sized rooms (111 to 150 sq ft)",
+            "d3": "Energy Rating : 5 Star, Annual Energy Consumption : 1180.00 kWh, ISEER Value : 3.34"
+        }
+    ],
+    "price": "25,000",
+    "year":"2021",
+    "top":"top"
+  },
+  {
+    "id": 19,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Samsung AC140KN4DEH Cassette AC 14.0kW",
+    "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ],
+    "madein": "Korea",
+    "img": "/image/samsung19.png",
+    "details": [
+        {
+            "d1": "360 Cassette Inverter AC with Heat cool Option",
+            "d2": "Even Cooling",
+            "d3": "Superior Aesthetics"
+        }
+    ],
+    "price": "34,999",
+    "year":"2022",
+    "top":"top"
+  },
+  {
+    "id": 20,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Samsung Cassette AC AC9000 Wind-Free",
+    "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"    
+            }
+        ],
+    "madein": "Korea",
+    "img": "/image/samsung20.jpg",
+    "details": [
+        {
+            "d1": "Big and optimized blades enable even wider cooling range.",
+            "d2": "Energy Saving",
+            "d3": "Big blade",
+            "d4": "Wind-Free Cooling effectively maintains a comfortable level of coolness without the unpleasant feeling of cold wind.Cool air is gently dispersed through 15,672 micro air holes, so you won’t feel too hot or cold."
+        }
+    ],
+    "price": "44,999",
+    "year":"2022",
+    "top":"top"
+  },
+  {
+    "id": 21,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Samsung Cassette AC Heat Pump R410A",
+    "brand":
+        [
+            {
+                "id":1,
+                "name":"Samsung"
+            }
+        ],
+    "madein": "Korea",
+    "img": "/image/samsung21.jpeg",
+    "details": [
+        {
+            "d1": "Powered to Purify, Cool and Heat",
+            "d2": "The unit's self-diagnosis mode alerts users to malfunctions straight away.",
+            "d3": "Big blade",
+            "d4": "The innovative Twin Cross Flow Fan distributes cool and warm air even further with a minimum of noise"
+        }
+    ],
+    "price": "48,999",
+    "year":"2022",
+    "top":"top"
+  },
+  {
+    "id": 22,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Daikin Cassette AC FCC85AV1V Ion-Plasma",
+    "brand":
+        [
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+    "madein": "India",
+    "img": "/image/daikin24.jpg",
+    "details": [
+        {
+            "d1": "Advanced I-Plasma Technology",
+            "d2": "Sleep mode",
+            "d3": "Integrated intelligent control",
+            "d4": "Modern design, the mask size of the power is the same, easy installation in any area.",
+            "d5": "Capacity 30,000 Btu suitable for installation in living room, office, showroom..."
+        }
+    ],
+    "price": "38,999",
+    "year":"2022",
+    "top":"top"
+  },
+  {
+    "id": 23,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Daikin Cassette AC Inverter 1.5Hp FFFC35AVM",
+    "brand":
+        [
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+    "madein": "India",
+    "img": "/image/daikin23.jpg",
+    "details": [
+        {
+            "d1": "Inverter technology saves energy",
+            "d2": "The fins of the outdoor unit are treated with anti-corrosion treatment",
+            "d3": "Super durable filter",
+            "d4": "Use environmentally friendly refrigerants",
+            "d5": "Modern design, luxury and Outstanding cooling capacity"
+        }
+    ],
+    "price": "38,999",
+    "year":"2022",
+    "top":"top"
+  },
+  {
+    "id": 24,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Daikin Cassette AC Ceiling 5Hp FCRN125FXV1V",
+    "brand":
+        [
+            {
+                "id":2,
+                "name":"Daikin"
+            }
+        ],
+    "madein": "Malaysia",
+    "img": "/image/daikin22.jpg",
+    "details": [
+        {
+            "d1": "Compact design, quiet operation",
+            "d2": "Avoid uneven temperature and discomfort caused by drafts.",
+            "d3": "Circular blowing direction uniform temperature distribution",
+            "d4": "Easily adapts to any installation space",
+            "d5": "Quick and easy installation"
+        }
+    ],
+    "price": "43,999",
+    "year":"2021",
+    "top":"top"
+  },
+  {
+    "id": 25,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Panasonic Cassette AC 2.0 HP S-19PU1H5B",
+    "brand":
+        [
+            {
+                "id":3,
+                "name":"Panasonic"
+            }
+        ],
+    "madein": "Malaysia",
+    "img": "/image/panasonic25.jpg",
+    "details": [
+        {
+            "d1": "In-house production compressor",
+            "d2": "High-strength outdoor unit",
+            "d3": "Outdoor unit covered with anti-corrosion paint",
+            "d4": "Nanoe™ X Air Purification Technology",
+            "d5": "Compact indoor unit design, 950mm square mask, wide blower door, suitable for installation in living rooms, restaurants, offices...."
+        }
+    ],
+    "price": "33,999",
+    "year":"2022",
+    "top":"top"
+  },
+  {
+    "id": 26,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Panasonic Cassette AC 2.0 Hp S-1821PU3H",
+    "brand":
+        [
+            {
+                "id":3,
+                "name":"Panasonic"
+            }
+        ],
+    "madein": "Malaysia",
+    "img": "/image/panasonic26.jpg",
+    "details": [
+        {
+            "d1": "Patented nanoe™ X air purification technology",
+            "d2": "3rd party proven nanoe™ X performance in large spaces",
+            "d3": "HCONEX : New generation remote control",
+            "d4": "Leading the market with powerful, wide and comfortable airflow",
+            "d5": "Powerful discharge pump allows lifting to 850mm"
+        }
+    ],
+    "price": "36,999",
+    "year":"2022",
+    "top":"top"
+  },
+  {
+    "id": 27,
+     "type": [
+        {
+            "id":3,
+             "name": "cassette ac"
+        }
+    ],
+    "name": "Panasonic Cassette AC 4.5 Hp S40PU1H",
+    "brand":
+        [
+            {
+                "id":3,
+                "name":"Panasonic"
+            }
+        ],
+    "madein": "Malaysia",
+    "img": "/image/panasonic27.jpg",
+    "details": [
+        {
+            "d1": "Cleaner air with super antibacterial filter",
+            "d2": "Technical advantages of Panasonic ceiling-mounted air conditioner S40PU1H5.",
+            "d3": "Economy function (save power).",
+            "d4": "Random reboot.",
+            "d5": "Cleaner air with super antibacterial filter."
+        }
+    ],
+    "price": "46,999",
+    "year":"2022",
+    "top":"top"
+  }
+]

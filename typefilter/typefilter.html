@@ -1,0 +1,92 @@
+<div ng-controller="typefiltercontrol">
+
+<!-- Body main wrapper start -->
+<div class="wrapper">
+
+<!-- PAGE BANNER SECTION -->
+<div class="page-banner-section section" style="background-image: url('image/typeac-1.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="page-banner-content">
+                    <h1>{{title}}</h1>
+                    <ul class="breadcrumb">
+                        <li><a href="#">Category</a></li>
+                        <li class="active">{{title}}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END PAGE BANNER SECTION -->
+    
+<!-- PAGE SECTION START -->
+<div class="page-section section pt-120 pb-120">
+    <div class="container">
+        <div class="row mb-2">
+            <div class="col-sm-4">
+                <label for="search" class="sr-only">Search</label>
+                <input type="text" ng-model="search" id="search" name="search" class="form-control" placeholder="Search for products">
+            </div>
+            <div class="col-sm-2">
+                <label for="productorder" class="sr-only">Filter by</label>
+                <select class="form-select" ng-model="productorder">
+                    <option value="name">Name</option>
+                    <option value="price">Price</option>
+                </select>
+            </div>
+            <div class="col-sm-3">
+                <label for="productorder" class="btn btn-default">Asc&nbsp;&nbsp;<input type="radio" name="direction" class="form-check-input" ng-model="direction" checked></label>
+                <label for="productorder" class="btn btn-default">Desc&nbsp;&nbsp;<input type="radio" name="direction" value="reverse" class="form-check-input" ng-model="direction"></label>
+            </div>
+        </div>
+        <br>
+        <div class="isotope-grid row">
+            <!-- product-item product-item-2 start -->
+            <div class="isotope-item chair home-decor col-xl-3 col-lg-4 col-md-6 col-12 mb-50" ng-repeat="ac in airlist | filter:search | orderBy:productorder:direction">
+                <div class="product-item product-item-2 text-center">
+                    <!-- Product Image -->
+                    <div class="product-img">
+                        <!-- Image -->
+                        <a class="image" href="#!product/{{ac.id}}"><img ng-src="{{ac.img}}" width="270px" height="210px" alt=""/></a>
+                        <!-- Action Button -->
+                        <div class="action-btn-2">
+                            <a href="#" data-bs-toggle="modal"  data-bs-target="#quickViewModal" title="Quick View"><i class="pe-7s-look"></i></a>
+                        </div>
+                    </div>
+                    <!-- Portfolio Info -->
+                    <div class="product-info">
+                        <!-- Title -->
+                        <h5 class="title"><a href="product-details.html">{{ac.name}}</a></h5>
+                        <!-- Price -->
+                        <div class="price-ratting fix">
+                            <span class="price float-start"><span class="new">{{ac.price +' $'}}</span></span>
+                            <span class="ratting float-end">
+                                <i class="fa fa-star active"></i>
+                                <i class="fa fa-star active"></i>
+                                <i class="fa fa-star active"></i>
+                                <i class="fa fa-star active"></i>
+                                <i class="fa fa-star active"></i>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- product-item product-item-2 end -->
+            
+        </div>
+
+        
+    </div>
+</div>
+<!-- PAGE SECTION END -->
+
+
+
+
+</div>
+</div>
+
+
+

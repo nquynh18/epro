@@ -1,0 +1,55 @@
+<div ng-controller="ProductDetail"> 
+<!-- PAGE SECTION START -->
+    <div class="page-section section pt-120 pb-120">
+        <div class="container">
+            <div class="row mb-40">
+                <!-- Single Product Images -->
+                <div class="col-md-5 col-sm-6 col-xs-12 mb-40">	
+                    <!-- Tab panes -->
+                    <div class="tab-content mb-10">
+                        <div class="pro-large-img tab-pane active" id="pro-large-img-1">
+                            <img style="margin-top:100px" ng-src="{{detail.img}}" alt="" />
+                        </div>
+                    </div>     
+                </div>
+                <!-- Single Product Details -->
+                <div class="col-md-7 col-sm-6 col-xs-12 mb-40">
+                    <div class="product-details section">
+                        <!-- Title -->
+                        <h3 class="title">{{detail.name}}</h3>
+                        <!-- Price Ratting -->
+                        <div class="price-ratting section">
+                            <!-- Price -->
+                            <span class="price float-start"><span class="new">{{detail.price + ' $'}}</span></span>
+                            <!-- Ratting -->
+                        </div>
+                        <!-- Short Description -->
+                        <div class="short-desc section">
+                            <h5 class="pd-sub-title">Quick Overview</h5>
+                            <div>
+                                <p>{{detail.details[0].d1}}</p>
+                                <p>{{detail.details[0].d2}}</p>
+                                <p>{{detail.details[0].d3}}</p>
+                                <p>{{detail.details[0].d4}}</p>
+                                <p>{{detail.details[0].d5}}</p>
+                                <p>{{detail.details[0].d6}}</p>
+                            </div>
+                        </div>
+                    
+                        <div class="product-size section">
+                            <h5 class="pd-sub-title">Year of made</h5>
+                            <p>{{detail.year}}</p>
+                        </div>
+
+                        <div class="product-size section">
+                            <h5 class="pd-sub-title">Country of made</h5>
+                            <p>{{detail.madein}}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

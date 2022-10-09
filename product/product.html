@@ -1,0 +1,90 @@
+<div ng-controller="Product">
+    <!--Home Slider-->
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <!--Slider 1-->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="img/slider/slider5.jpg" width="1100px" height="800px" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h1 style="font-size: 50px">Air Conditioner</h1>
+                </div>
+                <div class="carousel-caption-1 d-none d-md-block">
+                    <p>In the summer, there is a definite need for air conditioning in shops to create an inviting space for shoppers, and a comfortable environment for staff to carry out their duties. So installing air conditioning is a great move for your choice.</p>
+                </div>
+            </div>
+        
+        <!--Slider 2-->
+        <div class="carousel-item">
+            <img src="img/slider/slider6.jpg" width="1100px" height="800px" class="d-block w-100" alt="...">
+            <div class="carousel-caption-2 d-none d-md-block">
+                <h1 style="font-size: 30px">Feel the cool breeze in any season Because all of us are in this together</h1>
+            </div>
+            <div class="carousel-caption-3 d-none d-md-block">
+                <p>&#10148; Discount on all products until the end of October, 2022.</p>
+                <p>&#10148; Best your choice</p>
+                <p>&#10148; Fine weather all year round</p>
+            </div>
+        </div>
+
+        <!--Slider 3-->
+        <div class="carousel-item">
+            <img src="img/slider/slider13.png" width="1100px" height="800px" class="d-block w-100" alt="...">
+        </div>
+        
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+    <!--End Slider-->
+
+    <div class="product-section section pt-120 pb-120">
+        <div class="container">
+            <div class="row justify-content-between">
+                <h1 style="text-align:center">Top Selling</h1>
+            </div>
+            <div class="isotope-grid row">
+                <div class="isotope-item chair home-decor col-xl-3 col-lg-4 col-md-6 col-12 mb-50" ng-repeat="x in ProductList | filter: 'top': true | limitTo: 12">
+                    <div class="product-item-2 text-center">
+                        <!-- Product Image -->
+                        <div class="product-img">
+                            <!-- Image -->
+                            <br>
+                            <a class="image" href="#!product/{{x.id}}"><img ng-src="{{x.img}}" width="270px" height="210px" alt=""/></a>
+                            <div class="action-btn-2">
+                                <a href="#!view/{{x.id}}" data-bs-toggle="modal"  data-bs-target="#quickViewModal" title="Quick View" ng-click="open()"><i class="pe-7s-look"></i></a>
+                            </div>
+                        </div>
+                        <!-- Portfolio Info -->
+                        <div class="product-info text-left">
+                            <!-- Title -->
+                            <h5 class="title">{{x.name}}</h5>
+                            <!-- Price Ratting -->
+                            <div class="price-ratting fix">
+                                <span class="price float-start"><span class="new">{{x.price+' $'}}</span></span>
+                                <span class="ratting float-end">
+                                    <i class="fa fa-star active"></i>
+                                    <i class="fa fa-star active"></i>
+                                    <i class="fa fa-star active"></i>
+                                    <i class="fa fa-star active"></i>
+                                    <i class="fa fa-star active"></i>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+ </div>
+
+   
